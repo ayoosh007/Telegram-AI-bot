@@ -6,7 +6,7 @@ the Application and registered at their respective places.
 Then, the bot is started and runs until we press Ctrl-C on the command line.
 
 Usage:
-Basic Echobot example, repeats messages.
+Image and text generation
 Press Ctrl-C on the command line or send a signal to the process to stop the
 bot.
 """
