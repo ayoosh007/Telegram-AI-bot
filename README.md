@@ -18,4 +18,3 @@ Sure, here's the information properly formatted in Markdown:
 
 ---
 
-Is there anything else you would like to add or modify?
